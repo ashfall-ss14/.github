@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/1544401696875348060?style=flat-square&label=DISCORD&labelColor=0B1512&color=5FA893&logo=discord&logoColor=F2E8C9)](https://discord.gg/6hZhXhtUv)
+[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2F6hZhXhtUv%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=DISCORD&labelColor=0B1512&color=5FA893&style=flat-square&logo=discord&logoColor=F2E8C9&suffix=%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)](https://discord.gg/6hZhXhtUv)
 [![Предложения](https://img.shields.io/badge/%D0%9F%D0%A0%D0%95%D0%94%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%98%D0%AF-%D0%94%D0%9E%D0%A1%D0%9A%D0%90-E8A33D?style=flat-square&labelColor=0B1512)](https://discord.gg/HuVyc4SWpB)
 [![PRs](https://img.shields.io/github/issues-pr/ashfall-ss14/AshFall-Prototype?style=flat-square&label=PR&labelColor=0B1512&color=E8A33D)](https://github.com/ashfall-ss14/AshFall-Prototype/pulls)
 [![Задачи](https://img.shields.io/github/issues-raw/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%97%D0%90%D0%94%D0%90%D0%A7%D0%98&labelColor=0B1512&color=8FA39B)](https://github.com/ashfall-ss14/AshFall-Prototype/issues)
