@@ -6,13 +6,11 @@
 
 <div align="center">
 
-[![Звёзды](https://img.shields.io/github/stars/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%97%D0%92%D0%81%D0%97%D0%94%D0%AB&labelColor=0B1512&color=5FA893)](https://github.com/ashfall-ss14/AshFall-Prototype/stargazers)
-[![Задачи](https://img.shields.io/github/issues-raw/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%97%D0%90%D0%94%D0%90%D0%A7%D0%98&labelColor=0B1512&color=8FA39B)](https://github.com/ashfall-ss14/AshFall-Prototype/issues)
-[![PRs](https://img.shields.io/github/issues-pr/ashfall-ss14/AshFall-Prototype?style=flat-square&label=PR&labelColor=0B1512&color=E8A33D)](https://github.com/ashfall-ss14/AshFall-Prototype/pulls)
-[![Контрибьюторы](https://img.shields.io/github/contributors/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%9A%D0%9E%D0%9D%D0%A2%D0%A0%D0%98%D0%91%D0%AC%D0%AE%D0%A2%D0%9E%D0%A0%D0%AB&labelColor=0B1512&color=F2E8C9)](https://github.com/ashfall-ss14/AshFall-Prototype/graphs/contributors)
-[![Последний коммит](https://img.shields.io/github/last-commit/ashfall-ss14/AshFall-Prototype/master?style=flat-square&label=%D0%9F%D0%9E%D0%A1%D0%9B%D0%95%D0%94%D0%9D%D0%98%D0%99%20%D0%9A%D0%9E%D0%9C%D0%9C%D0%98%D0%A2&labelColor=0B1512&color=5FA893)](https://github.com/ashfall-ss14/AshFall-Prototype/commits/master)
 [![Discord](https://img.shields.io/badge/DISCORD-%D0%A1%D0%9E%D0%9E%D0%91%D0%A9%D0%95%D0%A1%D0%A2%D0%92%D0%9E-5FA893?style=flat-square&labelColor=0B1512&logo=discord&logoColor=F2E8C9)](https://discord.gg/6hZhXhtUv)
 [![Предложения](https://img.shields.io/badge/%D0%9F%D0%A0%D0%95%D0%94%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%98%D0%AF-%D0%94%D0%9E%D0%A1%D0%9A%D0%90-E8A33D?style=flat-square&labelColor=0B1512)](https://discord.gg/HuVyc4SWpB)
+[![PRs](https://img.shields.io/github/issues-pr/ashfall-ss14/AshFall-Prototype?style=flat-square&label=PR&labelColor=0B1512&color=E8A33D)](https://github.com/ashfall-ss14/AshFall-Prototype/pulls)
+[![Задачи](https://img.shields.io/github/issues-raw/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%97%D0%90%D0%94%D0%90%D0%A7%D0%98&labelColor=0B1512&color=8FA39B)](https://github.com/ashfall-ss14/AshFall-Prototype/issues)
+[![Звёзды](https://img.shields.io/github/stars/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%97%D0%92%D0%81%D0%97%D0%94%D0%AB&labelColor=0B1512&color=5FA893)](https://github.com/ashfall-ss14/AshFall-Prototype/stargazers)
 
 </div>
 
