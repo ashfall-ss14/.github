@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2F6hZhXhtUv%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=DISCORD&labelColor=0B1512&color=5FA893&style=flat-square&logo=discord&logoColor=F2E8C9&suffix=%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)](https://discord.gg/6hZhXhtUv)
-[![Предложения](https://img.shields.io/badge/%D0%9F%D0%A0%D0%95%D0%94%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%98%D0%AF-%D0%94%D0%9E%D0%A1%D0%9A%D0%90-E8A33D?style=flat-square&labelColor=0B1512)](https://discord.gg/HuVyc4SWpB)
-[![PRs](https://img.shields.io/github/issues-pr/ashfall-ss14/AshFall-Prototype?style=flat-square&label=PR&labelColor=0B1512&color=E8A33D)](https://github.com/ashfall-ss14/AshFall-Prototype/pulls)
-[![Задачи](https://img.shields.io/github/issues-raw/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%97%D0%90%D0%94%D0%90%D0%A7%D0%98&labelColor=0B1512&color=8FA39B)](https://github.com/ashfall-ss14/AshFall-Prototype/issues)
+[![Discord](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2F6hZhXhtUv%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=DISCORD&labelColor=0B1512&color=5865F2&style=flat-square&logo=discord&logoColor=F2E8C9&suffix=%20%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)](https://discord.gg/6hZhXhtUv)
+[![PRs](https://img.shields.io/github/issues-pr/ashfall-ss14/AshFall-Prototype?style=flat-square&label=PR&labelColor=0B1512&color=5FA893)](https://github.com/ashfall-ss14/AshFall-Prototype/pulls)
+[![Предложения](https://img.shields.io/badge/%D0%9F%D0%A0%D0%95%D0%94%D0%9B%D0%9E%D0%96%D0%95%D0%9D%D0%98%D0%AF-%D0%94%D0%9E%D0%A1%D0%9A%D0%90-E8A33D?style=flat-square&labelColor=0B1512)](https://github.com/orgs/ashfall-ss14/projects/1)
+[![Задачи](https://img.shields.io/github/issues-raw/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%97%D0%90%D0%94%D0%90%D0%A7%D0%98&labelColor=0B1512&color=5FA893)](https://github.com/ashfall-ss14/AshFall-Prototype/issues)
 [![Звёзды](https://img.shields.io/github/stars/ashfall-ss14/AshFall-Prototype?style=flat-square&label=%D0%97%D0%92%D0%81%D0%97%D0%94%D0%AB&labelColor=0B1512&color=5FA893)](https://github.com/ashfall-ss14/AshFall-Prototype/stargazers)
 
 </div>
@@ -31,7 +31,7 @@
 
 Сборка: Git, .NET 9.0 SDK и Python 3.10+, детали и правила контрибуции в [AshFall-Prototype](https://github.com/ashfall-ss14/AshFall-Prototype) (CONTRIBUTING.md).
 
-Предложения по игре собирай на [доске предложений](https://discord.gg/HuVyc4SWpB) в Discord.
+Предложения по игре собирай на [доске предложений](https://github.com/orgs/ashfall-ss14/projects/1).
 
 ---
 
