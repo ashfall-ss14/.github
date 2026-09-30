@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ashfall: Ashen Industrial corporation archive">
+  <defs>
+    <pattern id="hatch" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="9" height="9" fill="#0B1512"/>
+      <line x1="0" y1="0" x2="0" y2="9" stroke="#11201A" stroke-width="3"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000000" opacity="0.22"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="14" fill="url(#hatch)"/>
+  <rect width="1200" height="300" rx="14" fill="none" stroke="#1E3A32" stroke-width="2"/>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 4" dur="2.6s" repeatCount="indefinite"/>
+    <rect width="1200" height="300" rx="14" fill="url(#scan)"/>
+  </g>
+
+  <g stroke="#E8A33D" stroke-width="3" fill="none" opacity="0.85" stroke-linecap="square">
+    <path d="M26 56 V26 H56"/>
+    <path d="M1174 56 V26 H1144"/>
+    <path d="M26 244 V274 H56"/>
+    <path d="M1174 244 V274 H1144"/>
+  </g>
+
+  <g stroke="#0B1512" stroke-width="7" stroke-linejoin="round">
+    <polygon points="66,246 152,74 198,74 292,246 234,246 174,128 122,246" fill="#1B2A3A"/>
+    <path d="M310 74 H442 V126 H360 V154 H416 V198 H360 V246 H310 Z" fill="#E8A33D"/>
+  </g>
+  <path d="M162 70 L173 108 L211 119 L173 130 L162 168 L151 130 L113 119 L151 108 Z" fill="#F2E8C9"/>
+
+  <text x="492" y="122" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="bold" letter-spacing="18" fill="#F2E8C9">ASHFALL</text>
+
+  <text x="494" y="162" font-family="DejaVu Sans Mono, Consolas, Menlo, monospace" font-size="21" letter-spacing="2" fill="#5FA893">// ASHEN INDUSTRIAL CORPORATION</text>
+
+  <text x="494" y="198" font-family="DejaVu Sans Mono, Consolas, Menlo, monospace" font-size="17" letter-spacing="1" fill="#8FA39B">
+    <tspan>СТАНЦИЯ: КРИОСОН ПРЕРВАН :: СИСТЕМЫ: ДЕГРАДАЦИЯ :: СВЯЗЬ: </tspan><tspan fill="#E8A33D">НЕТ</tspan>
+    <animate attributeName="opacity" values="1;0.82;1;0.92;1" dur="3.4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="494" y="238" font-family="DejaVu Sans Mono, Consolas, Menlo, monospace" font-size="20" letter-spacing="1" fill="#E8A33D">&gt; ПРОТОКОЛ ПРОБУЖДЕНИЯ: АКТИВЕН</text>
+  <rect x="826" y="222" width="13" height="21" fill="#E8A33D">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
